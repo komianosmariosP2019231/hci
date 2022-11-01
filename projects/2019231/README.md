@@ -1,11 +1,8 @@
 # Μάθημα: Επικοινωνία Ανθρώπου Υπολογιστή
 
-### Ονοματεπώνυμο: ΔΗΜΗΤΡΗΣ ΚΩΣΤΑΔΗΜΑΣ
-### Αριθμός Μητρώου: Π2019108
-### GitHub Profile: [KuhakuNeko](https://github.com/KuhakuNeko)
-### Netlify Site: [p2019108-ionio-pibook](https://p2019108-ionio-pibook.netlify.app/)
-### Site Repository: [KuhakuNeko/Site](https://github.com/KuhakuNeko/site)
-### Shell Scripts Repository: [KuhakuNeko/KuhakuNekoLinuxShellScripts]( https://github.com/KuhakuNeko/KuhakuNekoLinuxShellScripts)
+### Ονοματεπώνυμο: Κομιανός Μάριος
+### Αριθμός Μητρώου: Π2019231
+### GitHub Profile: [profile](https://github.com/komianosmariosP2019231)
 <br />
 
 ## Πίνακας με σύνοψη των παραδοτέων
