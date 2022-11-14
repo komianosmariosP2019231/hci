@@ -11,7 +11,7 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |[Εισαγωγή](https://github.com/komianosmariosP2019231/hci/blob/2019231/projects/2019231/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%B7)|[Εισαγωγή](https://github.com/courses-ionio/help/discussions/959) | |
-| 2 | Άσκηση γραμμής εντολών (arch linux install on VM) | | |
+| 2 | Άσκηση γραμμής εντολών (arch linux install on VM) |[Discussions video](https://github.com/courses-ionio/help/discussions/1598)| |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
@@ -26,7 +26,9 @@
 # ΕΙΣΑΓΩΓΗ
 Ο στόχος που έχω από το μάθημα είναι η αποκόμιση γνλωσεων για την εξέλιξη των διεπαφών των υπολογιστών, από τις οθόνες οι οποίες πρόβαλλαν μόνο χαρακτήρες, στα πιο σύγχρονα παραθυρικά περιβάλλοντα, και τη χρήση περιφεραιακ΄ψν συσκευών, όπως τα ποντίκια και οι οθόνες αφής, για τη διεκπεραίωση των εργασιών.
 
-# Άσκηση γραμμής εντολών
+# Άσκηση γραμμής εντολών 
+Neofetch:
+[Asciinema video](https://asciinema.org/a/EXUWbWlkh2jvLqM6588DRYtXD)
 
 # Συμμετοχικό περιεχόμενο A1
 
